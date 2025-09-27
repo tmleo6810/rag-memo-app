@@ -1,0 +1,2 @@
+# RAG Notes
+Create Markdown notes and ask the in-app chatbot (LLM) questions; it uses Retrieval-Augmented Generation (RAG) to search across all your notes and return answers. Built for learning; not intended for production use.
